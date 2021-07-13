@@ -1,0 +1,41 @@
+body {
+        background:
+        linear-gradient(
+          rgba(212, 98, 255, 0.1), 
+          rgba(63, 0, 15, 0.3)
+          
+        ),
+        url("leaf.jpg");
+        backdrop-filter: blur(2px);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    .main__chat_window {
+      
+      flex-grow: 1;
+      overflow-y: auto;
+      scroll-behavior: smooth;
+       height: 300px
+  }
+
+  .main__message_container {
+    padding: 22px 12px;
+    display: flex;
+}
+
+
+
+.main__message_container input {
+    flex-grow: 1;
+    background-color: transparent;
+    font-family:sans-serif;
+    border: none;
+    color:black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
