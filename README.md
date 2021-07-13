@@ -12,4 +12,3 @@ Backend - Node JS, Express JS, Socket.io and Peer JS
 
 ### Screenshot
 
-[!VioCal__Screenshot.png] (https://github.com/madhu82764/VioCal/blob/main/VioCal__Screenshot.png)
