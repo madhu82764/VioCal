@@ -10,6 +10,6 @@ Frontend - React JS(Material-UI), Bootstrap, HTML/CSS
 
 Backend - Node JS, Express JS, Socket.io and Peer JS
 
-## Screenshot
+### Screenshot
 
-[!VioCal__Screenshot.png] (VioCal__Screenshot.png)
+[!VioCal__Screenshot.png] (VioCal\VioCal__Screenshot.png)
